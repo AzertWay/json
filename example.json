@@ -61,6 +61,67 @@
 					]
 				}
 			]
+		},
+		{
+			"name": "Year2017",
+			"children": [
+				{
+					"name": "best lead actor",
+					"children": [
+						{
+							"name": "Casey Affleck",
+							"children": [
+								{"name": "Andrew Garfield"},
+								{"name": "Ryan Gosling"},
+								{"name": "Viggo Mortensen"},
+								{"name": "Denzel Washington"}
+							]
+						}
+					]
+				},
+				{
+					"name": "best lead actress",
+					"children": [
+						{
+							"name": "Emma Stone",
+							"children": [
+								{"name": "Isabelle Huppert"},
+								{"name": "Ruth Negga"},
+								{"name": "Natalie Portman"},
+								{"name": "Meryl Streep"}
+							]
+						}
+					]
+				},
+				{
+					"name": "best supporting actress",
+					"children": [
+						{
+							"name": "Viola Davis",
+							"children": [
+								{"name": "Naomie Harris"},
+								{"name": "Nicole Kidman"},
+								{"name": "Octavia Spencer"},
+								{"name": "Michelle Williams"}
+							]
+						}
+					]
+				},
+				{
+					"name": "best supporting actor",
+					"children": [
+						{
+							"name": "Mahershala Ali",
+							"children": [
+								{"name": "Jeff Bridges"},
+								{"name": "Lucas Hedges"},
+								{"name": "Dev Patel"},
+								{"name": "Michael Shannon"}
+							]
+						}
+					]
+				}
+			]
 		}
 	]
 }
