@@ -1,0 +1,41 @@
+{
+	"name": "Academy Awards",
+	"children": [
+		{
+			"name": "Year2016",
+			"children": [
+				{
+					"name": "best lead actor",
+					"children": [
+						{"name": "Leonardo DiCaprio", "value": "1st oscar in 5 nominations"}
+					]
+				},
+				{
+					"name": "best lead actress",
+					"children": [
+						{"name": "Brie Larson", "value": "1st oscar in 1 nomination"}
+					]
+				},
+				{
+					"name": "best supporting actor",
+					"children": [
+						{"name": "Mark Rylance", "value": "1st oscar"}
+					]
+				},
+				{
+					"name": "best supporting actress",
+					"children": [
+						{"name": "Alicia Vikander", "value": "1st oscar"}
+					]
+				}
+			]
+		},
+		{
+			"name": "Year2017",
+			"children": [
+				{"name": "best picture", "value": "The Shape of Water"},
+				{"name": "best director", "value": "Damien Chazelle"}
+			]
+		}
+	]
+}
