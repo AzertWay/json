@@ -7,7 +7,15 @@
 				{
 					"name": "best lead actor",
 					"children": [
-						{"name": "Leonardo DiCaprio"}
+						{
+							"name": "Leonardo DiCaprio",
+							"children": [
+								{"name": "Bryan Cranston"},
+								{"name": "Matt Damon"},
+								{"name": "Michael Fassbender"},
+								{"name": "Eddie Redmayne"}
+							]
+						}
 					]
 				},
 				{
@@ -28,13 +36,6 @@
 						{"name": "Alicia Vikander"}
 					]
 				}
-			]
-		},
-		{
-			"name": "Year2017",
-			"children": [
-				{"name": "best picture", "value": "The Shape of Water"},
-				{"name": "best director", "value": "Damien Chazelle"}
 			]
 		}
 	]
