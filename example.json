@@ -7,25 +7,25 @@
 				{
 					"name": "best lead actor",
 					"children": [
-						{"name": "Leonardo DiCaprio", "value": "1st oscar in 5 nominations"}
+						{"name": "Leonardo DiCaprio"}
 					]
 				},
 				{
 					"name": "best lead actress",
 					"children": [
-						{"name": "Brie Larson", "value": "1st oscar in 1 nomination"}
+						{"name": "Brie Larson"}
 					]
 				},
 				{
 					"name": "best supporting actor",
 					"children": [
-						{"name": "Mark Rylance", "value": "1st oscar"}
+						{"name": "Mark Rylance"}
 					]
 				},
 				{
 					"name": "best supporting actress",
 					"children": [
-						{"name": "Alicia Vikander", "value": "1st oscar"}
+						{"name": "Alicia Vikander"}
 					]
 				}
 			]
