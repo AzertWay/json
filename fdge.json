@@ -14,13 +14,13 @@
     {"id": "Ruth Langmore", "group": 1}
   ],
   "links": [
-    {"source": "AzertWay", "target": "Cersei Lannister", "value": 6},
+    {"source": "AzertWay", "target": "Cersei Lannister", "value": 18},
     {"source": "AzertWay", "target": "Philip Jennings", "value": 2},
     {"source": "AzertWay", "target": "Jessica Lange", "value": 3},
     {"source": "AzertWay", "target": "Sarah Paulson", "value": 5},
     {"source": "Jeanne Nieto", "target": "Sarah Paulson", "value": 5},
-    {"source": "Jeanne Nieto", "target": "AzertWay", "value": 6},
-    {"source": "Jeanne Nieto", "target": "Cersei Lannister", "value": 7},
+    {"source": "Jeanne Nieto", "target": "AzertWay", "value": 19},
+    {"source": "Jeanne Nieto", "target": "Cersei Lannister", "value": 25},
     {"source": "Jeanne Nieto", "target": "Philip Jennings", "value": 1},
     {"source": "Jeanne Nieto", "target": "Elizabeth Jennings", "value": 1},
     {"source": "Jeanne Nieto", "target": "Jessica Lange", "value": 2},
@@ -28,6 +28,6 @@
     {"source": "Jeanne Nieto", "target": "Charlie Ross", "value": 2},
     {"source": "Jeanne Nieto", "target": "Elizabeth Swan", "value": 1},
     {"source": "Jeanne Nieto", "target": "Ruth Langmore", "value": 1},
-    {"source": "Jeanne Nieto", "target": "Arya Stark", "value": 1},
+    {"source": "Jeanne Nieto", "target": "Arya Stark", "value": 10},
   ]
 }
