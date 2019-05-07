@@ -13,7 +13,7 @@
     {"id": "Elizabeth Swan", "group": 1},
     {"id": "Ruth Langmore", "group": 1}
   ],
-  links": [
+  "links": [
     {"source": "AzertWay", "target": "Cersei Lannister", "value": 6},
     {"source": "AzertWay", "target": "Philip Jennings", "value": 2},
     {"source": "AzertWay", "target": "Jessica Lange", "value": 3},
