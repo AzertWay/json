@@ -1,0 +1,32 @@
+{
+  "nodes": [
+    {"id": "AzertWay", "group": 1},
+    {"id": "Cersei Lannister", "group": 1},
+    {"id": "Arya Stark", "group": 1},
+    {"id": "Philip Jennings", "group": 1},
+    {"id": "Elizabeth Jennings", "group": 1},
+    {"id": "Jeanne Nieto", "group": 1},
+    {"id": "Jessica Lange", "group": 1},
+    {"id": "Sarah Paulson", "group": 1},
+    {"id": "Martin Kürtz", "group": 1},
+    {"id": "Charlie Ross", "group": 1},
+    {"id": "Elizabeth Swan", "group": 1},
+    {"id": "Ruth Langmore", "group": 1}
+  ],
+  links": [
+    {"source": "AzertWay", "target": "Cersei Lannister", "value": 6},
+    {"source": "AzertWay", "target": "Philip Jennings", "value": 2},
+    {"source": "AzertWay", "target": "Jessica Lange", "value": 3},
+    {"source": "AzertWay", "target": "Sarah Paulson", "value": 5},
+    {"source": "Jeanne Nieto", "target": "Sarah Paulson", "value": 5},
+    {"source": "Jeanne Nieto", "target": "AzertWay", "value": 6},
+    {"source": "Jeanne Nieto", "target": "Cersei Lannister", "value": 7},
+    {"source": "Jeanne Nieto", "target": "Philip Jennings", "value": 1},
+    {"source": "Jeanne Nieto", "target": "Elizabeth Jennings", "value": 1},
+    {"source": "Jeanne Nieto", "target": "Jessica Lange", "value": 2},
+    {"source": "Jeanne Nieto", "target": "Martin Kürtz", "value": 1},
+    {"source": "Jeanne Nieto", "target": "Charlie Ross", "value": 2},
+    {"source": "Jeanne Nieto", "target": "Elizabeth Swan", "value": 1},
+    {"source": "Jeanne Nieto", "target": "Ruth Langmore", "value": 1}
+  ]
+}
