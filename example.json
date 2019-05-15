@@ -9,7 +9,7 @@
 					"children": [
 						{
 							"name": "Leonardo DiCaprio",
-							"children": [
+							"nominees": [
 								{"name": "Bryan Cranston"},
 								{"name": "Matt Damon"},
 								{"name": "Michael Fassbender"},
