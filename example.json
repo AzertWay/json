@@ -9,20 +9,16 @@
 			"categories": [
 				{
 					"name": "best lead actor",
-					"winner": [
-						{
-							"name": "Leonardo DiCaprio",
-							"nominees": [
-								{"name": "Bryan Cranston"},
-								{"name": "Matt Damon"},
-								{"name": "Michael Fassbender"},
-								{"name": "Eddie Redmayne"}
-							],
-							"snubbed" : [
-								{"name": "Michael Keaton"},
-								{"name": "Adam Driver"}
-							]
-						}
+					"winner": {"name": "Leonardo DiCaprio"},
+					"nominees": [
+						{"name": "Bryan Cranston"},
+						{"name": "Matt Damon"},
+						{"name": "Michael Fassbender"},
+						{"name": "Eddie Redmayne"}
+					],
+					"snubbed" : [
+						{"name": "Michael Keaton"},
+						{"name": "Adam Driver"}
 					]
 				},
 				{
