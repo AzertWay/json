@@ -1,5 +1,8 @@
 {
-	"name": "  Academy Awards",
+	"name": "Academy Awards",
+	"Country": "United States",
+	"Awarded for": "Excellence in cinematic achievements",
+	"Presented by": "Academy of Motion Picture Arts and Sciences";
 	"years": [
 		{
 			"name": "Year2016",
