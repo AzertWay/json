@@ -1,12 +1,12 @@
 {
 	"name": "  Academy Awards",
-	"children": [
+	"years": [
 		{
 			"name": "Year2016",
-			"children": [
+			"categories": [
 				{
 					"name": "best lead actor",
-					"children": [
+					"winner": [
 						{
 							"name": "Leonardo DiCaprio",
 							"nominees": [
@@ -20,10 +20,10 @@
 				},
 				{
 					"name": "best lead actress",
-					"children": [
+					"winner": [
 						{
 							"name": "Brie Larson",
-							"children": [
+							"nominees": [
 								{"name": "Cate Blanchett"},
 								{"name": "Jennifer Lawrence"},
 								{"name": "Charlotte Rampling"},
@@ -34,10 +34,10 @@
 				},
 				{
 					"name": "best supporting actor",
-					"children": [
+					"winner": [
 						{
 							"name": "Mark Rylance",
-							"children": [
+							"nominees": [
 								{"name": "Christian Bale"},
 								{"name": "Tom Hardy"},
 								{"name": "Mark Ruffalo"},
@@ -48,10 +48,10 @@
 				},
 				{
 					"name": "best supporting actress",
-					"children": [
+					"winner": [
 						{
 							"name": "Alicia Vikander",
-							"children": [
+							"nominees": [
 								{"name": "Jennifer Jason Leigh"},
 								{"name": "Rooney Mara"},
 								{"name": "Rachel McAdams"},
@@ -64,13 +64,13 @@
 		},
 		{
 			"name": "Year2017",
-			"children": [
+			"categories": [
 				{
 					"name": "best lead actor",
-					"children": [
+					"winner": [
 						{
 							"name": "Casey Affleck",
-							"children": [
+							"nominees": [
 								{"name": "Andrew Garfield"},
 								{"name": "Ryan Gosling"},
 								{"name": "Viggo Mortensen"},
@@ -81,10 +81,10 @@
 				},
 				{
 					"name": "best lead actress",
-					"children": [
+					"winner": [
 						{
 							"name": "Emma Stone",
-							"children": [
+							"nominees": [
 								{"name": "Isabelle Huppert"},
 								{"name": "Ruth Negga"},
 								{"name": "Natalie Portman"},
@@ -95,10 +95,10 @@
 				},
 				{
 					"name": "best supporting actress",
-					"children": [
+					"winner": [
 						{
 							"name": "Viola Davis",
-							"children": [
+							"nominees": [
 								{"name": "Naomie Harris"},
 								{"name": "Nicole Kidman"},
 								{"name": "Octavia Spencer"},
@@ -109,10 +109,10 @@
 				},
 				{
 					"name": "best supporting actor",
-					"children": [
+					"winner": [
 						{
 							"name": "Mahershala Ali",
-							"children": [
+							"nominees": [
 								{"name": "Jeff Bridges"},
 								{"name": "Lucas Hedges"},
 								{"name": "Dev Patel"},
