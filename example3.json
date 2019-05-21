@@ -5,8 +5,8 @@
   "leader": {
     "name": "CL",
     "other members": [
-      {"name", "JN"},
-      {"name", "RL"}
+      {"name": "JN"},
+      {"name": "RL"}
     ]
   }
 }
