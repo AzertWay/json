@@ -10,7 +10,16 @@
 				{
 					"name": "best lead actor",
 					"winner": [
-						{"name": "Leonardo DiCaprio"}
+						{
+							"name": "Leonardo DiCaprio",
+							"Main Films": [
+								{"name": "Titanic"},
+								{"name": "The Departed"},
+								{"name": "Shutter Island"},
+								{"name": "Inception"},
+								{"name": "The Revenant"}
+							]
+						}
 					],
 					"nominees": [
 						{"name": "Bryan Cranston"},
