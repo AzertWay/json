@@ -2,11 +2,8 @@
   "id": "L&G",
   "type": "group",
   "size": 13,
-  "leader": {
-    "name": "CL",
-    "other members": [
-      {"name": "JN"},
-      {"name": "RL"}
-    ]
-  }
+  "leader": {"name": "Cersei Lannister"},
+  "m1": {"name": "Ruth Langmore"},
+  "m2": {"name": "Elizabeth Jennings"},
+  "m3": {"name": "Philipp Jennings"}
 }
