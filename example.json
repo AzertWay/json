@@ -19,9 +19,7 @@
 								{"name": "Inception"},
 								{"name": "The Revenant"}
 							],
-							"Coming soon" : [
-								{"name": "Once Upon A Time... In Hollywood"}
-							]
+							"Coming soon" : {"name": "Once Upon A Time... In Hollywood"}
 						}
 					],
 					"nominees": [
