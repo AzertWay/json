@@ -9,8 +9,7 @@
 			"categories": [
 				{
 					"name": "best lead actor",
-					"winner": [
-						{
+					"winner": {
 							"name": "Leonardo DiCaprio",
 							"Main Films": [
 								{"name": "Titanic"},
@@ -20,8 +19,7 @@
 								{"name": "The Revenant"}
 							],
 							"Coming soon" : {"name": "Once Upon A Time... In Hollywood"}
-						}
-					],
+					},
 					"nominees": [
 						{"name": "Bryan Cranston"},
 						{"name": "Matt Damon"},
