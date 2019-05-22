@@ -1,9 +1,11 @@
 {
-  "id": "L&G",
-  "type": "group",
-  "size": 13,
-  "leader": {"name": "Cersei Lannister"},
-  "m1": {"name": "Ruth Langmore"},
-  "m2": {"name": "Elizabeth Jennings"},
-  "m3": {"name": "Philipp Jennings"}
+  "L&G": {
+    "Leader": {"name": "Cersei Lannister"}
+    "Members": [
+      {"name": "Jessica Lange"},
+      {"name": "Sarah Paulson"},
+      {"name": "Arya Stark"},
+      {"name": "AzertWay"}
+    ]
+  }
 }
